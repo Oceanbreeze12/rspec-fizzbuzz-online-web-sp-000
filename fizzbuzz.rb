@@ -1,6 +1,6 @@
 def fizzbuzz
 end
-  if number%3
+  if (number%3==0)
     "FizzBuzz"
     elsif number%5==0
     "Buzz"
